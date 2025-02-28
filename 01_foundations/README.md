@@ -1,5 +1,7 @@
-# Foundations of Cybersecurity
+# Security Risks
 
+
+📅 **Course Duration:** [Start Date] – [End Date]  
 📖 **Course Overview:**  
 [Brief description of what this course covers. Adapt based on the course content.]  
 
