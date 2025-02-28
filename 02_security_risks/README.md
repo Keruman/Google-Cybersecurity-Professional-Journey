@@ -1,4 +1,4 @@
-# [Security Risks]
+# Security Risks
 
 
 📅 **Course Duration:** [Start Date] – [End Date]  
