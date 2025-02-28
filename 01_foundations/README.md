@@ -1,5 +1,4 @@
-# Security Risks
-
+# Foundations of Cybersecurity
 
 📅 **Course Duration:** [Start Date] – [End Date]  
 📖 **Course Overview:**  
