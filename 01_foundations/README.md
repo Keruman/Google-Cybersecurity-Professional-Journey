@@ -1,7 +1,7 @@
 # Foundations of Cybersecurity
 
 📖 **Course Overview:**  
-[Brief description of what this course covers. Adapt based on the course content.]  
+[Brief description of what this course covers. Adapt based on the course content.] 
 
 ---
 
