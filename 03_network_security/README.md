@@ -16,8 +16,6 @@
 ## 📝 **Key Learnings & Notes**  
 - [ ] **Lesson 1:** [Summary of main topics]  
 - [ ] **Lesson 2:** [Summary of main topics]  
-- [ ] **Lesson 3:** [Summary of main topics]  
-- [ ] **Lesson 4:** [Summary of main topics]  
 
 *(Mark completed lessons with ✅ as you progress.)*  
 
